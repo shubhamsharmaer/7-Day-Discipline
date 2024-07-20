@@ -1,9 +1,11 @@
-![7 (1)](https://github.com/user-attachments/assets/21e40d7a-739c-4df3-9dbc-8c42fdc2d25f)
+![DAY 1](https://github.com/user-attachments/assets/e94a9511-625c-481c-bbb7-e7d36632c34d)
+
 # 7 Days Discipline: Day 1
 
 Welcome to Day 1 of the '7 Days Discipline' series! Aaj hum cover karenge essential interview questions JavaScript aur Aptitude me. Pehle basic questions se shuru karenge aur dheere dheere advanced topics tak jayenge.
 
 ## JavaScript Interview Questions
+
 
 ### 1. JavaScript kya hai?
 JavaScript ek lightweight, interpreted ya just-in-time compiled programming language hai with first-class functions. Ye web pages ke liye sabse zyada jaana jaata hai, but non-browser environments me bhi use hoti hai.
